@@ -4,7 +4,7 @@ $ResourceGroupName = 	"Resource Group"
 $tier = "Shared" # Free / Shared / Basic / Standard
 
 
-$connectionName = "automation"
+$connectionName = "AzureRunAsConnection"
 try
 {
     # Get the connection "AzureRunAsConnection "
